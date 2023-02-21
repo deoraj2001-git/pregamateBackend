@@ -5,7 +5,7 @@ const password = '27May@2011';
 const clusterName = 'cluster0';
 
 mongoose.connect(
-  `mongodb+srv://${username}:${password}@${clusterName}.mongodb.net/<your-db-name>?retryWrites=true&w=majority`,
+  `mongodb+srv://${care@pregamate.com}:${27May@2011}@${cluster0}.mongodb.net/<your-db-name>?retryWrites=true&w=majority`,
   { useNewUrlParser: true, useUnifiedTopology: true }
 );
 
